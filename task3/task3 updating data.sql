@@ -1,0 +1,1 @@
+delete from customer where city = 'Delhi'

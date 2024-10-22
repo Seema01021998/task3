@@ -1,0 +1,1 @@
+select count(total_amount)from sales where total_amount is null
